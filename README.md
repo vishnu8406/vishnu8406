@@ -132,9 +132,9 @@ An edge-capable assistance system designed to enable spatial awareness for visua
 
 <div align="left">
 
-* **LinkedIn:** [linkedin.com/]((https://www.linkedin.com/in/maiyarasu-vishnu-5952b5370/))
+* **LinkedIn:** [linkedin.com/]([linkedin.com/in/your-profile](https://www.linkedin.com/in/maiyarasu-vishnu-5952b5370/))
 * **Hugging Face:** [@Maiyarasu](https://huggingface.co/Maiyarasu)
-* **Email:** [maiyarasu.official@example.com](mailto:maiyarasu.official@example.com)
+* **Email:** [vishnumaiyarasu@gmail.com](mailto:vishnumaiyarasu@gmail.com)
 
 ---
 
