@@ -3,7 +3,7 @@
   <h1>Hi, I'm Maiyarasu S 👋</h1>
 
   <p align="center">
-    <strong>Data Engineer | Analytics Developer | Digital Twin & AI Systems Engineer</strong>
+    <strong>Data Analytics Developer | Digital Twin & AI Systems Engineer</strong>
   </p>
 
   <p align="center">
@@ -132,7 +132,7 @@ An edge-capable assistance system designed to enable spatial awareness for visua
 
 <div align="left">
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+* **LinkedIn:** [linkedin.com/]((https://www.linkedin.com/in/maiyarasu-vishnu-5952b5370/))
 * **Hugging Face:** [@Maiyarasu](https://huggingface.co/Maiyarasu)
 * **Email:** [maiyarasu.official@example.com](mailto:maiyarasu.official@example.com)
 
