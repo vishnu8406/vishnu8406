@@ -1,144 +1,263 @@
 <div align="center">
 
-  <h1>Hi, I'm Maiyarasu S 👋</h1>
+# Hi, I'm Maiyarasu S 👋
 
-  <p align="center">
-    <strong>Data Analytics Developer | Digital Twin & AI Systems Engineer</strong>
-  </p>
+### Data Analyst • Data Engineering Enthusiast • Sports Analytics Developer • AI & Digital Twin Researcher
 
-  <p align="center">
-    <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://football-analytics-maiyarasu.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/></a>
-    <a href="https://huggingface.co/datasets/Maiyarasu/football_analytics"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
-
-  <!-- Typing GIF / Header Animation -->
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=500&lines=Data+Engineers+%26+Analytics+Developers;Digital+Twin+%26+Simulation+Engineers;Computer+Vision+%26+AI+Practitioners;Open+Source+Contributors" alt="Typing SVG" />
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
+  <a href="https://football-analytics-maiyarasu.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
+
+  <a href="https://huggingface.co/datasets/Maiyarasu/football_analytics">
+    <img src="https://img.shields.io/badge/Hugging_Face_Dataset-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
+
+  <a href="https://github.com/vishnu8406">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Football+Analytics+Developer;Data+Analytics+Portfolio+Projects;Sports+Data+Engineering;Digital+Twin+Simulation+Developer;Computer+Vision+and+AI+Projects;Always+Learning+and+Building" />
+
 </div>
 
 ---
 
-### 💡 About Me
+# 🚀 About Me
 
-Engineered at the intersection of **Electrical Engineering, Data Analytics, and Simulation Systems**, I build end-to-end analytical pipelines, interactive dashboards, and physical simulation engines. 
+I'm an **Electrical & Electronics Engineering student** passionate about transforming raw data into meaningful insights through analytics, visualization, and engineering systems.
 
-* 📍 Based in **Chennai, India**
-* ⚡ Graduated with a background in **Electrical & Electronics Engineering** from Agni College of Technology.
-* 🎯 Focus areas: Architectural design of data pipelines, sports analytics platforms, real-time computer vision models, and interactive digital twin modeling for power networks.
-* 🔭 Currently scaling sports dataset availability on **Hugging Face** and building domain-specific simulation tools in **Godot**.
+Currently focused on:
+
+- ⚽ Football Analytics
+- 📊 Data Analytics & Visualization
+- 🗄️ Data Engineering Pipelines
+- 🤖 Computer Vision & AI
+- ⚡ Power System Digital Twins
+- 🐧 Linux & Open Source Development
 
 ---
 
-### 💻 Tech Stack
+# 💻 Tech Stack
 
-**Programming & Query Languages**
+## Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
-**Data Engineering & Analytics**
+---
+
+## Data Analytics
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**AI, Computer Vision & Simulation**
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+## AI & Computer Vision
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black)
-![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
-**Tools & Environment**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square)
+
+---
+
+## Simulation & Engineering
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Featured Engineering Projects
-
-#### ⚽ 01. End-to-End Football Analytics Platform
-> **Stack:** Python | Streamlit | SQLite | Pandas | mplsoccer
-
-A analytics platform that ingests StatsBomb open data to perform advanced match modeling, spatial profiling, and team performance metrics.
-
-* **Key Features:**
-  * **Spatial Analysis:** Interactive pass networks, team possession explorers, and dynamic player heatmaps.
-  * **Advanced Metrics:** Expected Goals ($xG$) modeling and radar chart feature comparisons.
-  * **Database Ingestion:** Automated data preparation pipelines feeding an optimized SQLite storage engine.
-* 🔗 **Links:** [GitHub Repository](https://github.com/vishnu8406/football-analytics) | [Live Web App](https://football-analytics-maiyarasu.streamlit.app/) | [Hugging Face Dataset](https://huggingface.co/datasets/Maiyarasu/football_analytics)
+# 🌟 Featured Projects
 
 ---
 
-#### ⚡ 02. Interactive Digital Twin of Power Distribution Networks
-> **Stack:** Godot Engine | GDScript | Power Systems Engineering
+## ⚽ Football Analytics Dashboard
 
-A simulation engine designed to replicate grid behaviors and perform real-time power network scenario testing.
+### End-to-End Sports Analytics Platform
 
-* **Key Features:**
-  * **Real-time Flow Analysis:** Dynamic visualization of power flows across customized grid nodes.
-  * **Fault Injection Engine:** Simulation of line short-circuits, voltage sags, and renewable energy integration dynamics.
-  * **Interactive Modeling:** Node-based editor interface built for interactive network stress testing.
-* 🛠️ **Status:** Active Development
+Built using:
+
+- Python
+- SQLite
+- Streamlit
+- Pandas
+- mplsoccer
+- StatsBomb Open Data
+
+### Features
+
+✅ Match Analysis
+
+✅ Team Analysis
+
+✅ Player Analysis
+
+✅ xG Analysis
+
+✅ Pass Network Visualization
+
+✅ Possession Explorer
+
+✅ Player Heatmaps
+
+✅ Interactive Football Pitch Visualizations
+
+### Links
+
+🔗 GitHub Repository
+
+https://github.com/vishnu8406/football-analytics
+
+🌐 Live Dashboard
+
+https://football-analytics-maiyarasu.streamlit.app/
+
+🤗 Dataset
+
+https://huggingface.co/datasets/Maiyarasu/football_analytics
 
 ---
 
-#### 👁️ 03. AI-Powered Assistant for Visually Impaired Navigation
-> **Stack:** YOLOv8 | OpenCV | Android | Firebase
+## ⚡ Digital Twin of Power Distribution Networks
 
-An edge-capable assistance system designed to enable spatial awareness for visually impaired users via low-latency computer vision.
+Interactive simulation platform built in Godot Engine.
 
-* **Key Features:**
-  * **Real-Time Detection:** Custom-trained YOLOv8 object detection pipelines running on live feeds.
-  * **OCR & Spatial Mapping:** Text recognition integrated with real-time distance estimations.
-  * **Audio Pipeline:** Voice feedback triggers based on immediate environmental hazards.
+### Features
+
+- Power Flow Analysis
+- Network Modeling
+- Fault Simulation
+- Renewable Integration
+- Grid Reliability Analysis
+- Interactive Component Placement
+
+### Tech
+
+- Godot Engine
+- GDScript
+- Power Systems Engineering
 
 ---
 
-### 📊 GitHub & Contribution Metrics
+## 👁️ AI Blind Assistant
+
+Computer Vision based navigation assistant for visually impaired users.
+
+### Features
+
+- Real-Time Object Detection
+- OCR Recognition
+- Voice Guidance
+- Hazard Detection
+- Mobile Deployment
+
+### Tech
+
+- YOLOv8
+- OpenCV
+- Firebase
+- Android
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishnu8406&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt=" Maiyarasu's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu8406&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vishnu8406&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu8406&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu8406&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-### 🏆 Achievements & Badges
-
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=vishnu8406&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophy Shelf"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu8406&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-### 📬 Connect With Me
+# 🏆 GitHub Trophies
 
-<div align="left">
+<div align="center">
 
-* **LinkedIn:** [linkedin.com/]([linkedin.com/in/your-profile](https://www.linkedin.com/in/maiyarasu-vishnu-5952b5370/))
-* **Hugging Face:** [@Maiyarasu](https://huggingface.co/Maiyarasu)
-* **Email:** [vishnumaiyarasu@gmail.com](mailto:vishnumaiyarasu@gmail.com)
+<img src="https://github-profile-trophy.vercel.app/?username=vishnu8406&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true"/>
+
+</div>
+
+---
+
+# 📊 Current Focus
+
+```text
+Football Analytics        ████████████████ 100%
+SQL & Database Design     ███████████████░ 95%
+Python Data Analysis      ███████████████░ 95%
+Data Visualization        ██████████████░░ 90%
+Machine Learning          ███████████░░░░░ 70%
+Digital Twin Systems      █████████████░░░ 85%
+```
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL Query Optimization
+- Sports Analytics
+- Feature Engineering
+- Machine Learning for Football Data
+- Interactive Data Products
+- Scalable Data Pipelines
+
+---
+
+# 📬 Connect With Me
+
+### LinkedIn
+
+[Linkedin](https://www.linkedin.com/in/maiyarasu-vishnu-5952b5370/)
+
+### Hugging Face
+
+https://huggingface.co/Maiyarasu
+
+### Email
+
+vishnumaiyarasu@gmail.com
 
 ---
 
 <div align="center">
-  <sub>Visitor Count</sub><br/>
-  <img src="https://komarev.com/ghpvc/?username=vishnu8406&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter"/>
+
+<img src="https://komarev.com/ghpvc/?username=vishnu8406&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
+
 </div>
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy building complete systems from raw data ingestion and database design all the way to interactive dashboards, analytics products, AI applications, and engineering simulations.
+
+⭐ If you like my work, feel free to explore my repositories and connect with me.
